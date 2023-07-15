@@ -1,0 +1,9 @@
+.*
+README.md
+coverage.json
+coverage
+cache
+artifacts
+.env
+node_modules
+package.json
